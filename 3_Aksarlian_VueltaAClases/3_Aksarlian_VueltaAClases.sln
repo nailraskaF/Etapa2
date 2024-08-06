@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Aksarlian_VueltaAClases", "3_Aksarlian_VueltaAClases.csproj", "{A3D3EFE7-8382-454D-8D9F-CE3A5A7D9CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D3EFE7-8382-454D-8D9F-CE3A5A7D9CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D3EFE7-8382-454D-8D9F-CE3A5A7D9CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D3EFE7-8382-454D-8D9F-CE3A5A7D9CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D3EFE7-8382-454D-8D9F-CE3A5A7D9CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {233046C2-3028-475B-AC92-6BACA74600EC}
+	EndGlobalSection
+EndGlobal
