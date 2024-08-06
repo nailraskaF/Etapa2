@@ -1,0 +1,14 @@
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\bin\Debug\net8.0\6_Aksarlian_ZEGARPG.exe
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\bin\Debug\net8.0\6_Aksarlian_ZEGARPG.deps.json
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\bin\Debug\net8.0\6_Aksarlian_ZEGARPG.runtimeconfig.json
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\bin\Debug\net8.0\6_Aksarlian_ZEGARPG.dll
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\bin\Debug\net8.0\6_Aksarlian_ZEGARPG.pdb
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\obj\Debug\net8.0\6_Aksarlian_ZEGARPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\obj\Debug\net8.0\6_Aksarlian_ZEGARPG.AssemblyInfoInputs.cache
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\obj\Debug\net8.0\6_Aksarlian_ZEGARPG.AssemblyInfo.cs
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\obj\Debug\net8.0\6_Aksarlian_ZEGARPG.csproj.CoreCompileInputs.cache
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\obj\Debug\net8.0\6_Aksarlian_ZEGARPG.dll
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\obj\Debug\net8.0\refint\6_Aksarlian_ZEGARPG.dll
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\obj\Debug\net8.0\6_Aksarlian_ZEGARPG.pdb
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\obj\Debug\net8.0\6_Aksarlian_ZEGARPG.genruntimeconfig.cache
+C:\Users\Panchi Aks\source\repos\6_Aksarlian_ZEGARPG\obj\Debug\net8.0\ref\6_Aksarlian_ZEGARPG.dll

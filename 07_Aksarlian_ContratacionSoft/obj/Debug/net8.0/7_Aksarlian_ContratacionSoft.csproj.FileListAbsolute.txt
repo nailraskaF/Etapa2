@@ -1,0 +1,14 @@
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\bin\Debug\net8.0\7_Aksarlian_ContratacionSoft.exe
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\bin\Debug\net8.0\7_Aksarlian_ContratacionSoft.deps.json
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\bin\Debug\net8.0\7_Aksarlian_ContratacionSoft.runtimeconfig.json
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\bin\Debug\net8.0\7_Aksarlian_ContratacionSoft.dll
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\bin\Debug\net8.0\7_Aksarlian_ContratacionSoft.pdb
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\obj\Debug\net8.0\7_Aksarlian_ContratacionSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\obj\Debug\net8.0\7_Aksarlian_ContratacionSoft.AssemblyInfoInputs.cache
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\obj\Debug\net8.0\7_Aksarlian_ContratacionSoft.AssemblyInfo.cs
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\obj\Debug\net8.0\7_Aksarlian_ContratacionSoft.csproj.CoreCompileInputs.cache
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\obj\Debug\net8.0\7_Aksarlian_ContratacionSoft.dll
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\obj\Debug\net8.0\refint\7_Aksarlian_ContratacionSoft.dll
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\obj\Debug\net8.0\7_Aksarlian_ContratacionSoft.pdb
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\obj\Debug\net8.0\7_Aksarlian_ContratacionSoft.genruntimeconfig.cache
+C:\Users\Panchi Aks\source\repos\7_Aksarlian_ContratacionSoft\obj\Debug\net8.0\ref\7_Aksarlian_ContratacionSoft.dll
