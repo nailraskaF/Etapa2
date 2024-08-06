@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\0_Aksarlian_La carrera de Homero\0_Aksarlian_La carrera de Homero\bin\Debug\0_Aksarlian_La carrera de Homero.exe.config
-C:\Users\alumno.ET37\Documents\0_Aksarlian_La carrera de Homero\0_Aksarlian_La carrera de Homero\bin\Debug\0_Aksarlian_La carrera de Homero.exe
-C:\Users\alumno.ET37\Documents\0_Aksarlian_La carrera de Homero\0_Aksarlian_La carrera de Homero\bin\Debug\0_Aksarlian_La carrera de Homero.pdb
-C:\Users\alumno.ET37\Documents\0_Aksarlian_La carrera de Homero\0_Aksarlian_La carrera de Homero\obj\Debug\0_Aksarlian_La carrera de Homero.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\0_Aksarlian_La carrera de Homero\0_Aksarlian_La carrera de Homero\obj\Debug\0_Aksarlian_La carrera de Homero.exe
-C:\Users\alumno.ET37\Documents\0_Aksarlian_La carrera de Homero\0_Aksarlian_La carrera de Homero\obj\Debug\0_Aksarlian_La carrera de Homero.pdb
