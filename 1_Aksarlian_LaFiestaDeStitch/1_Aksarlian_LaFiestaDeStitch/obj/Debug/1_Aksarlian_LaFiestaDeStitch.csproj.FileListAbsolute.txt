@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Etapa2\1_Aksarlian_LaFiestaDeStitch\1_Aksarlian_LaFiestaDeStitch\bin\Debug\1_Aksarlian_LaFiestaDeStitch.exe.config
-C:\Users\alumno.ET37\Documents\Etapa2\1_Aksarlian_LaFiestaDeStitch\1_Aksarlian_LaFiestaDeStitch\bin\Debug\1_Aksarlian_LaFiestaDeStitch.exe
-C:\Users\alumno.ET37\Documents\Etapa2\1_Aksarlian_LaFiestaDeStitch\1_Aksarlian_LaFiestaDeStitch\bin\Debug\1_Aksarlian_LaFiestaDeStitch.pdb
-C:\Users\alumno.ET37\Documents\Etapa2\1_Aksarlian_LaFiestaDeStitch\1_Aksarlian_LaFiestaDeStitch\obj\Debug\1_Aksarlian_LaFiestaDeStitch.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Etapa2\1_Aksarlian_LaFiestaDeStitch\1_Aksarlian_LaFiestaDeStitch\obj\Debug\1_Aksarlian_LaFiestaDeStitch.exe
-C:\Users\alumno.ET37\Documents\Etapa2\1_Aksarlian_LaFiestaDeStitch\1_Aksarlian_LaFiestaDeStitch\obj\Debug\1_Aksarlian_LaFiestaDeStitch.pdb
