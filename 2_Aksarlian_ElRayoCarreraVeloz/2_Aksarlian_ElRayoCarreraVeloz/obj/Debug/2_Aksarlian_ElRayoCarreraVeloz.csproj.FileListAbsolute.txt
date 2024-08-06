@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Etapa2\2_Aksarlian_ElRayoCarreraVeloz\2_Aksarlian_ElRayoCarreraVeloz\bin\Debug\2_Aksarlian_ElRayoCarreraVeloz.exe.config
-C:\Users\alumno.ET37\Documents\Etapa2\2_Aksarlian_ElRayoCarreraVeloz\2_Aksarlian_ElRayoCarreraVeloz\bin\Debug\2_Aksarlian_ElRayoCarreraVeloz.exe
-C:\Users\alumno.ET37\Documents\Etapa2\2_Aksarlian_ElRayoCarreraVeloz\2_Aksarlian_ElRayoCarreraVeloz\bin\Debug\2_Aksarlian_ElRayoCarreraVeloz.pdb
-C:\Users\alumno.ET37\Documents\Etapa2\2_Aksarlian_ElRayoCarreraVeloz\2_Aksarlian_ElRayoCarreraVeloz\obj\Debug\2_Aksarlian_ElRayoCarreraVeloz.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Etapa2\2_Aksarlian_ElRayoCarreraVeloz\2_Aksarlian_ElRayoCarreraVeloz\obj\Debug\2_Aksarlian_ElRayoCarreraVeloz.exe
-C:\Users\alumno.ET37\Documents\Etapa2\2_Aksarlian_ElRayoCarreraVeloz\2_Aksarlian_ElRayoCarreraVeloz\obj\Debug\2_Aksarlian_ElRayoCarreraVeloz.pdb
