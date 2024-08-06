@@ -1,0 +1,14 @@
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\bin\Debug\net8.0\10_Aksarlian_MatrizAleatoria.exe
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\bin\Debug\net8.0\10_Aksarlian_MatrizAleatoria.deps.json
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\bin\Debug\net8.0\10_Aksarlian_MatrizAleatoria.runtimeconfig.json
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\bin\Debug\net8.0\10_Aksarlian_MatrizAleatoria.dll
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\bin\Debug\net8.0\10_Aksarlian_MatrizAleatoria.pdb
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\obj\Debug\net8.0\10_Aksarlian_MatrizAleatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\obj\Debug\net8.0\10_Aksarlian_MatrizAleatoria.AssemblyInfoInputs.cache
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\obj\Debug\net8.0\10_Aksarlian_MatrizAleatoria.AssemblyInfo.cs
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\obj\Debug\net8.0\10_Aksarlian_MatrizAleatoria.csproj.CoreCompileInputs.cache
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\obj\Debug\net8.0\10_Aksarlian_MatrizAleatoria.dll
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\obj\Debug\net8.0\refint\10_Aksarlian_MatrizAleatoria.dll
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\obj\Debug\net8.0\10_Aksarlian_MatrizAleatoria.pdb
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\obj\Debug\net8.0\10_Aksarlian_MatrizAleatoria.genruntimeconfig.cache
+C:\Users\Panchi Aks\source\repos\10_Aksarlian_MatrizAleatoria\obj\Debug\net8.0\ref\10_Aksarlian_MatrizAleatoria.dll

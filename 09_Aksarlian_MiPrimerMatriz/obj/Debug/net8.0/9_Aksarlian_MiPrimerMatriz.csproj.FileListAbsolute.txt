@@ -1,0 +1,14 @@
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\bin\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.exe
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\bin\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.deps.json
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\bin\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.runtimeconfig.json
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\bin\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.dll
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\bin\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.pdb
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\obj\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\obj\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.AssemblyInfoInputs.cache
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\obj\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.AssemblyInfo.cs
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\obj\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\obj\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.dll
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\obj\Debug\net8.0\refint\9_Aksarlian_MiPrimerMatriz.dll
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\obj\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.pdb
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\obj\Debug\net8.0\9_Aksarlian_MiPrimerMatriz.genruntimeconfig.cache
+C:\Users\Panchi Aks\source\repos\9_Aksarlian_MiPrimerMatriz\obj\Debug\net8.0\ref\9_Aksarlian_MiPrimerMatriz.dll

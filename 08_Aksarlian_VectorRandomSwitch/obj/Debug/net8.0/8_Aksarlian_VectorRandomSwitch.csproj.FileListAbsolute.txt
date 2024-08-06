@@ -1,0 +1,14 @@
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\obj\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\obj\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.AssemblyInfoInputs.cache
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\obj\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.AssemblyInfo.cs
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\obj\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\bin\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.exe
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\bin\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.deps.json
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\bin\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.runtimeconfig.json
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\bin\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.dll
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\bin\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.pdb
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\obj\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.dll
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\obj\Debug\net8.0\refint\8_Aksarlian_VectorRandomSwitch.dll
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\obj\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.pdb
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\obj\Debug\net8.0\8_Aksarlian_VectorRandomSwitch.genruntimeconfig.cache
+C:\Users\Panchi Aks\source\repos\8_Aksarlian_VectorRandomSwitch\obj\Debug\net8.0\ref\8_Aksarlian_VectorRandomSwitch.dll
